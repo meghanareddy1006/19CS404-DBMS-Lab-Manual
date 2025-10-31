@@ -537,10 +537,6 @@ where o.ord_date between '2012-07-01' and '2012-07-30';
 
 ![image](https://github.com/user-attachments/assets/d2719b1d-d18d-40a4-b4d4-10839e55f5c6)
 
-**SEB OUTPUT GRADE**
-
-![image](https://github.com/user-attachments/assets/17480e0b-5ea6-43a5-a915-2fec4a42767b)
-
 
 ## RESULT
 Thus, the SQL queries to implement different types of joins have been executed successfully.
